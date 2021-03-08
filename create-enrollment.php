@@ -70,6 +70,7 @@
         <select/>
 
         <br/>
+        
         <br/>
         Shift: 
         <input name="shift" type="radio" value="0"/> Day
